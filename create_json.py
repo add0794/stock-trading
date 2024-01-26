@@ -24,11 +24,3 @@ def load_or_create_json(file_path, default_data, formatting=None):
     except FileNotFoundError:
         with open(file_path, "w") as data_file:
             json.dump(default_data, data_file, indent=4, ensure_ascii=False)
-
-
-# endpoint_alpha = 'https://www.alphavantage.co/query'
-# api_call_alpha = {
-#     'function': 'TIME_SERIES_DAILY',
-#     'symbol': STOCK_alpha,
-#     'apikey': API_KEY_alpha
-# }
