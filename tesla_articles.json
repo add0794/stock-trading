@@ -1,6 +1,6 @@
 {
     "status": "ok",
-    "totalResults": 7783,
+    "totalResults": 7793,
     "articles": [
         {
             "source": {
@@ -358,19 +358,6 @@
                 "id": "business-insider",
                 "name": "Business Insider"
             },
-            "author": "Grace Kay",
-            "title": "Tesla owners are peeved about an update that was meant to fix Autopilot",
-            "description": "Some Tesla owners aren't too happy about a recent software update that targets the carmaker's driver-assist feature.",
-            "url": "https://www.businessinsider.com/tesla-owners-peeved-update-autopilot-self-driving-2024-1",
-            "urlToImage": "https://i.insider.com/65b7b15343bb77284ba14067?width=1200&format=jpeg",
-            "publishedAt": "2024-01-29T16:41:51Z",
-            "content": "Tesla owners are complaining about a software update.Chicago Tribune\r\n<ul><li>Some Tesla owners are complaining about the company's Autopilot update.</li><li>The December update added in more alerts … [+2721 chars]"
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
             "author": "Nora Naughton",
             "title": "Morgan Stanley warns EV momentum is 'stalling' — and lists 7 reasons Tesla should be worried",
             "description": "Tesla CEO Elon Musk will face a litany of obstacles in 2024, according to analysts at Morgan Stanley.",
@@ -378,6 +365,19 @@
             "urlToImage": "https://i.insider.com/65aeb10543bb77284b9f499f?width=1200&format=jpeg",
             "publishedAt": "2024-01-22T19:04:57Z",
             "content": "Tesla CEO Elon Musk.ODD ANDERSEN/Getty Images\r\n<ul><li>Challenges Tesla dodged last year might catch up to them in 2024.</li><li>Morgan Stanley expects a conservative year-ahead outlook from Tesla wh… [+4034 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Grace Kay",
+            "title": "Tesla owners are peeved about an update that was meant to fix Autopilot",
+            "description": "Some Tesla owners aren't too happy about a recent software update that targets the carmaker's driver-assist feature.",
+            "url": "https://www.businessinsider.com/tesla-owners-peeved-update-autopilot-self-driving-2024-1",
+            "urlToImage": "https://i.insider.com/65b7b15343bb77284ba14067?width=1200&format=jpeg",
+            "publishedAt": "2024-01-29T16:41:51Z",
+            "content": "Tesla owners are complaining about a software update.Chicago Tribune\r\n<ul><li>Some Tesla owners are complaining about the company's Autopilot update.</li><li>The December update added in more alerts … [+2721 chars]"
         },
         {
             "source": {
@@ -554,32 +554,6 @@
                 "name": "Business Insider"
             },
             "author": "Jyoti Mann",
-            "title": "Elon Musk says Tesla's Optimus lab looks like something out of 'Westworld'",
-            "description": "A Tesla executive followed up Elon Musk's comments on an investor call by pointing out that the robots kill people in the HBO drama.",
-            "url": "https://www.businessinsider.com/elon-musk-tesla-optimus-robot-lab-looks-like-westworld-2024-1",
-            "urlToImage": "https://i.insider.com/65b77b8b6c8f0a134f7aa28f?width=1200&format=jpeg",
-            "publishedAt": "2024-01-29T11:33:37Z",
-            "content": "Tesla's Optimus robot can fold a shirt.Tesla\r\n<ul><li>Elon Musk told Tesla investors the Optimus robot lab looks like something out HBO's \"Westworld.\" </li><li>The Tesla CEO said there's a \"good chan… [+2018 chars]"
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "Hasan Chowdhury",
-            "title": "Why Elon Musk's battle with Delaware is about more than a $55 billion pay package",
-            "description": "Elon Musk was dealt a heavy blow by a Delaware judge who ruled his pay package was unfair. It could have serious ramifications for Tesla.",
-            "url": "https://www.businessinsider.com/elon-musk-delaware-battle-goes-beyond-55-billion-pay-package-2024-1",
-            "urlToImage": "https://i.insider.com/65ba538343bb77284ba1fef8?width=1200&format=jpeg",
-            "publishedAt": "2024-01-31T14:26:19Z",
-            "content": "The decision to void Elon Musk's pay package may have far-reaching consequences.Toby Melville - Pool/Getty Images\r\n<ul><li>Elon Musk just had his $55.8 billion Tesla pay package voided in a Delaware … [+6113 chars]"
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "Jyoti Mann",
             "title": "Some Cybertruck owners say their Teslas are starting to rust in the rain",
             "description": "A member of a Cybertruck owners' forum says they were warned that rain could cause their vehicle to rust when collecting their Tesla.",
             "url": "https://www.businessinsider.com/tesla-cybertruck-owners-starting-rust-rain-orange-specks-elon-musk-2024-2",
@@ -605,52 +579,26 @@
                 "id": "business-insider",
                 "name": "Business Insider"
             },
-            "author": "Katherine Tangalakis-Lippert,Lloyd Lee",
-            "title": "Former Tesla director Larry Ellison invited Elon Musk to Hawaii to 'dry out' from drugs, report says",
-            "description": "In the winter of 2022, former Tesla director Larry Ellison urged Elon Musk to visit Hawaii to 'dry out' from drugs, The Wall Street Journal reported.",
-            "url": "https://www.businessinsider.com/larry-ellison-elon-musk-hawaii-dry-out-drugs-report-2024-2",
-            "urlToImage": "https://i.insider.com/65bf0b9d43bb77284ba357bc?width=1200&format=jpeg",
-            "publishedAt": "2024-02-04T05:08:53Z",
-            "content": "Larry Ellison and Elon MuskGetty\r\n<ul><li>Elon Musk's drug use worries his business associates and board members, The Wall Street Journal reported.</li><li>Former Tesla director Larry Ellison urged E… [+2763 chars]"
+            "author": "Hasan Chowdhury",
+            "title": "Why Elon Musk's battle with Delaware is about more than a $55 billion pay package",
+            "description": "Elon Musk was dealt a heavy blow by a Delaware judge who ruled his pay package was unfair. It could have serious ramifications for Tesla.",
+            "url": "https://www.businessinsider.com/elon-musk-delaware-battle-goes-beyond-55-billion-pay-package-2024-1",
+            "urlToImage": "https://i.insider.com/65ba538343bb77284ba1fef8?width=1200&format=jpeg",
+            "publishedAt": "2024-01-31T14:26:19Z",
+            "content": "The decision to void Elon Musk's pay package may have far-reaching consequences.Toby Melville - Pool/Getty Images\r\n<ul><li>Elon Musk just had his $55.8 billion Tesla pay package voided in a Delaware … [+6113 chars]"
         },
         {
             "source": {
                 "id": "business-insider",
                 "name": "Business Insider"
             },
-            "author": "George Glover",
-            "title": "Elon Musk's lawyer is helping Adam Neumann as he tries to buy back WeWork",
-            "description": "Neumann's lawyer is Alex Spiro, whose other clients include Tesla CEO Elon Musk and the rappers Jay-Z and Megan Thee Stallion.",
-            "url": "https://www.businessinsider.com/elon-musk-lawyer-adam-neumann-wework-2024-2",
-            "urlToImage": "https://i.insider.com/65c393967a3d2714887876c9?width=1200&format=jpeg",
-            "publishedAt": "2024-02-07T15:27:15Z",
-            "content": "Former WeWork CEO Adam Neumann is trying to buy back the company he cofounded.Shahar Azran/Getty Images\r\n<ul><li>Adam Neumann is trying to buy back WeWork, the now-bankrupt company he cofounded.</li>… [+2169 chars]"
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "George Glover",
-            "title": "Ford is not giving up on EVs — and has Elon Musk's 'affordable Tesla' in its sights",
-            "description": "CEO Jim Farley said Ford will switch focus to smaller EVs because the \"ultimate competition is going to be the affordable Tesla\", dubbed the Model 2.",
-            "url": "https://www.businessinsider.com/ford-tesla-model-2-elon-musk-jim-farley-electric-vehicles-2024-2",
-            "urlToImage": "https://i.insider.com/65c38cf86fcb546d2d4cebff?width=1200&format=jpeg",
-            "publishedAt": "2024-02-07T14:01:19Z",
-            "content": "The Explorer is one of Ford's electric offerings.Lukas Schulze/Getty Images\r\n<ul><li>Ford will spend more on mass-market EVs, its CEO said Tuesday.</li><li>\"The ultimate competition is going to be th… [+2114 chars]"
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "Grace Kay",
-            "title": "Leaked Tesla pay data: How much Elon Musk's factory workers now make across the US after some got raises",
-            "description": "Tesla hiked pay for factory workers across the US last month. Here's how much they make now, according to internal documents.",
-            "url": "https://www.businessinsider.com/how-much-tesla-factory-workers-paid-per-hour-us",
-            "urlToImage": "https://i.insider.com/65b277a343bb77284ba08d88?width=1200&format=jpeg",
-            "publishedAt": "2024-02-08T09:30:01Z",
-            "content": "Tesla factory workers got a pay bump in January.Getty/David Butow\r\n<ul><li>Tesla announced pay increases effective January 8.</li><li>The company now pays US factory workers between $22 to $39 per ho… [+4173 chars]"
+            "author": "Jyoti Mann",
+            "title": "Elon Musk says Tesla's Optimus lab looks like something out of 'Westworld'",
+            "description": "A Tesla executive followed up Elon Musk's comments on an investor call by pointing out that the robots kill people in the HBO drama.",
+            "url": "https://www.businessinsider.com/elon-musk-tesla-optimus-robot-lab-looks-like-westworld-2024-1",
+            "urlToImage": "https://i.insider.com/65b77b8b6c8f0a134f7aa28f?width=1200&format=jpeg",
+            "publishedAt": "2024-01-29T11:33:37Z",
+            "content": "Tesla's Optimus robot can fold a shirt.Tesla\r\n<ul><li>Elon Musk told Tesla investors the Optimus robot lab looks like something out HBO's \"Westworld.\" </li><li>The Tesla CEO said there's a \"good chan… [+2018 chars]"
         },
         {
             "source": {
@@ -716,6 +664,58 @@
             "urlToImage": "https://i.insider.com/65d567d3a610a9069d5ac725?width=1200&format=jpeg",
             "publishedAt": "2024-02-21T23:06:43Z",
             "content": "Elon Musk is speaking at the symposium about antisemitism, organized by the European Jewish Association, in Krakow, Poland, on January 22, 2024.STR/NurPhoto/Getty Images\r\n<ul><li>Elon Musk is moving … [+3628 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Katherine Tangalakis-Lippert,Lloyd Lee",
+            "title": "Former Tesla director Larry Ellison invited Elon Musk to Hawaii to 'dry out' from drugs, report says",
+            "description": "In the winter of 2022, former Tesla director Larry Ellison urged Elon Musk to visit Hawaii to 'dry out' from drugs, The Wall Street Journal reported.",
+            "url": "https://www.businessinsider.com/larry-ellison-elon-musk-hawaii-dry-out-drugs-report-2024-2",
+            "urlToImage": "https://i.insider.com/65bf0b9d43bb77284ba357bc?width=1200&format=jpeg",
+            "publishedAt": "2024-02-04T05:08:53Z",
+            "content": "Larry Ellison and Elon MuskGetty\r\n<ul><li>Elon Musk's drug use worries his business associates and board members, The Wall Street Journal reported.</li><li>Former Tesla director Larry Ellison urged E… [+2763 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "George Glover",
+            "title": "Elon Musk's lawyer is helping Adam Neumann as he tries to buy back WeWork",
+            "description": "Neumann's lawyer is Alex Spiro, whose other clients include Tesla CEO Elon Musk and the rappers Jay-Z and Megan Thee Stallion.",
+            "url": "https://www.businessinsider.com/elon-musk-lawyer-adam-neumann-wework-2024-2",
+            "urlToImage": "https://i.insider.com/65c393967a3d2714887876c9?width=1200&format=jpeg",
+            "publishedAt": "2024-02-07T15:27:15Z",
+            "content": "Former WeWork CEO Adam Neumann is trying to buy back the company he cofounded.Shahar Azran/Getty Images\r\n<ul><li>Adam Neumann is trying to buy back WeWork, the now-bankrupt company he cofounded.</li>… [+2169 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "George Glover",
+            "title": "Ford is not giving up on EVs — and has Elon Musk's 'affordable Tesla' in its sights",
+            "description": "CEO Jim Farley said Ford will switch focus to smaller EVs because the \"ultimate competition is going to be the affordable Tesla\", dubbed the Model 2.",
+            "url": "https://www.businessinsider.com/ford-tesla-model-2-elon-musk-jim-farley-electric-vehicles-2024-2",
+            "urlToImage": "https://i.insider.com/65c38cf86fcb546d2d4cebff?width=1200&format=jpeg",
+            "publishedAt": "2024-02-07T14:01:19Z",
+            "content": "The Explorer is one of Ford's electric offerings.Lukas Schulze/Getty Images\r\n<ul><li>Ford will spend more on mass-market EVs, its CEO said Tuesday.</li><li>\"The ultimate competition is going to be th… [+2114 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Grace Kay",
+            "title": "Leaked Tesla pay data: How much Elon Musk's factory workers now make across the US after some got raises",
+            "description": "Tesla hiked pay for factory workers across the US last month. Here's how much they make now, according to internal documents.",
+            "url": "https://www.businessinsider.com/how-much-tesla-factory-workers-paid-per-hour-us",
+            "urlToImage": "https://i.insider.com/65b277a343bb77284ba08d88?width=1200&format=jpeg",
+            "publishedAt": "2024-02-08T09:30:01Z",
+            "content": "Tesla factory workers got a pay bump in January.Getty/David Butow\r\n<ul><li>Tesla announced pay increases effective January 8.</li><li>The company now pays US factory workers between $22 to $39 per ho… [+4173 chars]"
         },
         {
             "source": {
@@ -852,19 +852,6 @@
                 "id": null,
                 "name": "ReadWrite"
             },
-            "author": "Sam Shedden",
-            "title": "Elon Musk says he’ll move Tesla’s legal HQ to Texas",
-            "description": "Elon Musk has announced plans to move Tesla’s legal incorporation from Delaware to Texas following a judge’s decision to annul […]\nThe post Elon Musk says he’ll move Tesla’s legal HQ to Texas appeared first on ReadWrite.",
-            "url": "https://readwrite.com/elon-musk-says-hell-move-teslas-legal-hq-to-texas/",
-            "urlToImage": null,
-            "publishedAt": "2024-02-01T10:05:57Z",
-            "content": "Elon Musk has announced plans to move Tesla’s legal incorporation from Delaware to Texas following a judge’s decision to annul his whopping $55.8 billion compensation package.\r\nIn a post on his socia… [+2573 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "ReadWrite"
-            },
             "author": "Deanna Ritchie",
             "title": "Moron’s are wearing Apple Vision Pro while driving Tesla on autopilot",
             "description": "The word “moron” was coined in 1910 by psychologist Henry H. Goddard, for the Greek, which means an adult with […]\nThe post Moron’s are wearing Apple Vision Pro while driving Tesla on autopilot appeared first on ReadWrite.",
@@ -872,6 +859,19 @@
             "urlToImage": "https://readwrite.com/wp-content/uploads/2024/02/Apple-Vision-Pro-while-driving-Tesla.png",
             "publishedAt": "2024-02-06T00:55:43Z",
             "content": "The word “moron” was coined in 1910 by psychologist Henry H. Goddard, for the Greek, which means an adult with a mental age of between 7 to 10 years old on the Stanford-Binet Intelligence Scale. And … [+2360 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ReadWrite"
+            },
+            "author": "Sam Shedden",
+            "title": "Elon Musk says he’ll move Tesla’s legal HQ to Texas",
+            "description": "Elon Musk has announced plans to move Tesla’s legal incorporation from Delaware to Texas following a judge’s decision to annul […]\nThe post Elon Musk says he’ll move Tesla’s legal HQ to Texas appeared first on ReadWrite.",
+            "url": "https://readwrite.com/elon-musk-says-hell-move-teslas-legal-hq-to-texas/",
+            "urlToImage": null,
+            "publishedAt": "2024-02-01T10:05:57Z",
+            "content": "Elon Musk has announced plans to move Tesla’s legal incorporation from Delaware to Texas following a judge’s decision to annul his whopping $55.8 billion compensation package.\r\nIn a post on his socia… [+2573 chars]"
         },
         {
             "source": {
@@ -927,19 +927,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "ReadWrite"
-            },
-            "author": "Deanna Ritchie",
-            "title": "Elon Musk’s new startup xAI seeks to raise $6 billion to challenge OpenAI",
-            "description": "With several investors handing sizable checks to startups to profit from what has attracted Silicon Valley’s attention in the past […]\nThe post Elon Musk’s new startup xAI seeks to raise $6 billion to challenge OpenAI appeared first on ReadWrite.",
-            "url": "https://readwrite.com/elon-musks-new-startup-xai-seeks-to-raise-6-billion-to-challenge-openai/",
-            "urlToImage": "https://readwrite.com/wp-content/uploads/2024/01/Elon-Musks-xAI-seeks-6-billion.jpg",
-            "publishedAt": "2024-01-26T21:18:17Z",
-            "content": "With several investors handing sizable checks to startups to profit from what has attracted Silicon Valley’s attention in the past year — the race to create more and better AI has been escalating. To… [+1774 chars]"
-        },
-        {
-            "source": {
                 "id": "business-insider",
                 "name": "Business Insider"
             },
@@ -950,6 +937,19 @@
             "urlToImage": "https://i.insider.com/65c25b097a3d271488781e1b?width=1200&format=jpeg",
             "publishedAt": "2024-02-06T17:05:41Z",
             "content": "One piece of a new agreement to pause sales to Hertz\r\n by EV-maker Polestar hints at a larger concern in the electric-car market.That's why Polestar CEO Thomas Ingenlath told the Financial Times\r\n hi… [+2001 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ReadWrite"
+            },
+            "author": "Deanna Ritchie",
+            "title": "Elon Musk’s new startup xAI seeks to raise $6 billion to challenge OpenAI",
+            "description": "With several investors handing sizable checks to startups to profit from what has attracted Silicon Valley’s attention in the past […]\nThe post Elon Musk’s new startup xAI seeks to raise $6 billion to challenge OpenAI appeared first on ReadWrite.",
+            "url": "https://readwrite.com/elon-musks-new-startup-xai-seeks-to-raise-6-billion-to-challenge-openai/",
+            "urlToImage": "https://readwrite.com/wp-content/uploads/2024/01/Elon-Musks-xAI-seeks-6-billion.jpg",
+            "publishedAt": "2024-01-26T21:18:17Z",
+            "content": "With several investors handing sizable checks to startups to profit from what has attracted Silicon Valley’s attention in the past year — the race to create more and better AI has been escalating. To… [+1774 chars]"
         },
         {
             "source": {
@@ -1255,26 +1255,26 @@
                 "id": null,
                 "name": "Yahoo Entertainment"
             },
-            "author": "Bloomberg",
-            "title": "Tesla stock slumps after warning about 'notably lower' growth",
-            "description": "Filed under:\n Earnings/Financials,Green,Tesla,Electric\n Continue reading Tesla stock slumps after warning about 'notably lower' growth\nTesla stock slumps after warning about 'notably lower' growth originally appeared on Autoblog on Thu, 25 Jan 2024 10:25:00 E…",
-            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e055b879-25eb-4c14-9de1-b4d9b4a4fc06",
+            "author": "Reuters",
+            "title": "Tesla cuts prices by $1,000 for some Model Y cars in the U.S.",
+            "description": "Filed under:\n Green,Tesla,Car Buying,Electric\n Continue reading Tesla cuts prices by $1,000 for some Model Y cars in the U.S.\nTesla cuts prices by $1,000 for some Model Y cars in the U.S. originally appeared on Autoblog on Mon, 12 Feb 2024 10:27:00 EST. Pleas…",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_caf7fa21-d4ec-44c0-87f2-7b462b489ad9",
             "urlToImage": null,
-            "publishedAt": "2024-01-25T15:25:00Z",
-            "content": "Si vous cliquez sur « Tout accepter », nos partenaires (y compris 244 qui font partie du Cadre de transparence et de consentement dIAB) et nous utiliserons également des témoins et vos données person… [+982 chars]"
+            "publishedAt": "2024-02-12T15:27:00Z",
+            "content": "Si vous cliquez sur « Tout accepter », nos partenaires (y compris 242 qui font partie du Cadre de transparence et de consentement dIAB) et nous utiliserons également des témoins et vos données person… [+982 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Autoblog"
+                "name": "Yahoo Entertainment"
             },
-            "author": "Chris Teague",
-            "title": "Tesla Cybertruck tells its owner that locking differentials are 'coming soon'",
-            "description": "Filed under:\n Green,Weird Car News,Tesla,Truck,Electric,Off-Road Vehicles\n Continue reading Tesla Cybertruck tells its owner that locking differentials are 'coming soon'\nTesla Cybertruck tells its owner that locking differentials are 'coming soon' originally …",
-            "url": "https://www.autoblog.com/2024/01/26/tesla-cybertruck-tells-its-owner-that-locking-differentials-are-coming-soon/",
-            "urlToImage": "https://s.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1062x597/format/jpg/quality/100/https://s.aolcdn.com/os/ab/_cms/2024/01/26111643/Screen-Shot-2024-01-26-at-10.02.32-AM.jpg",
-            "publishedAt": "2024-01-26T16:51:00Z",
-            "content": "Tesla touts the Cybertrucks rugged capabilities, but one owner recently discovered that some of the funky EVs primary off-road functions arent ready for primetime. YouTuber VoyageATX posted a video o… [+1964 chars]"
+            "author": "Insider",
+            "title": "Tesla owners are upset about an update that was meant to fix Autopilot",
+            "description": "Filed under:\n Government/Legal,Green,Tesla,Technology,Electric\n Continue reading Tesla owners are upset about an update that was meant to fix Autopilot\nTesla owners are upset about an update that was meant to fix Autopilot originally appeared on Autoblog on T…",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_9a014dba-2a33-46e9-b771-e454613db5d5",
+            "urlToImage": null,
+            "publishedAt": "2024-01-30T14:01:00Z",
+            "content": "Si vous cliquez sur « Tout accepter », nos partenaires (y compris 244 qui font partie du Cadre de transparence et de consentement dIAB) et nous utiliserons également des témoins et vos données person… [+982 chars]"
         },
         {
             "source": {
@@ -1294,12 +1294,12 @@
                 "id": null,
                 "name": "Yahoo Entertainment"
             },
-            "author": "Insider",
-            "title": "Tesla owners are upset about an update that was meant to fix Autopilot",
-            "description": "Filed under:\n Government/Legal,Green,Tesla,Technology,Electric\n Continue reading Tesla owners are upset about an update that was meant to fix Autopilot\nTesla owners are upset about an update that was meant to fix Autopilot originally appeared on Autoblog on T…",
-            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_9a014dba-2a33-46e9-b771-e454613db5d5",
+            "author": "Bloomberg",
+            "title": "Tesla stock slumps after warning about 'notably lower' growth",
+            "description": "Filed under:\n Earnings/Financials,Green,Tesla,Electric\n Continue reading Tesla stock slumps after warning about 'notably lower' growth\nTesla stock slumps after warning about 'notably lower' growth originally appeared on Autoblog on Thu, 25 Jan 2024 10:25:00 E…",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e055b879-25eb-4c14-9de1-b4d9b4a4fc06",
             "urlToImage": null,
-            "publishedAt": "2024-01-30T14:01:00Z",
+            "publishedAt": "2024-01-25T15:25:00Z",
             "content": "Si vous cliquez sur « Tout accepter », nos partenaires (y compris 244 qui font partie du Cadre de transparence et de consentement dIAB) et nous utiliserons également des témoins et vos données person… [+982 chars]"
         }
     ]
