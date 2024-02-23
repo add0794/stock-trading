@@ -11,7 +11,6 @@ class DataHandler:
     def get_data(self, existing_data=None):
         if existing_data is not None:
             return existing_data
-
         try:
             request = requests.get(self.endpoint, params=self.api_call)
             data = request.json()
@@ -34,5 +33,4 @@ class DataHandler:
             data.update(default_data)
             with open(file_path, "w") as data_file:
                 json.dump(data, data_file, indent=formatting, ensure_ascii=False)
-
         return data
