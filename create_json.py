@@ -13,8 +13,8 @@ load_dotenv("/Users/alexdubro/.conda/.envs.txt")
 # Tesla stock data
 
 STOCK_SYMBOL = "TSLA"
-STOCK_API_KEY = os.getenv('ALPHA_VANTAGE') # ALPHA_VANTAGE='7O19AT8N3E6M0PQ9' 'W9C6WQ9ILW136H0M' used to be the apikey
-print(STOCK_API_KEY)
+STOCK_API_KEY = os.getenv('ALPHA_VANTAGE')
+
 
 stock_endpoint = 'https://www.alphavantage.co/query'
 stock_api_call = {
@@ -36,8 +36,8 @@ stocks.load_or_create_json("stock_data.json", stock_data, formatting=4)
 # Tesla articles
 
 NEWS_COMPANY_NAME = "Tesla"
-NEWS_API_KEY = os.getenv('NEWS_API') # NEWS_API='19f3705bd3ab41e7a2e5a69840086007'
-print(NEWS_API_KEY)
+NEWS_API_KEY = os.getenv('NEWS_API')
+
 
 endpoint_news = 'https://newsapi.org/v2/everything'
 api_call_news = {
@@ -45,7 +45,6 @@ api_call_news = {
     'q': NEWS_COMPANY_NAME,
     'language': 'en',
     'sortBy': 'relevancy',
-    'pageSize': 3,
 }
 
 # Create a Tesla articles instance of DataHandler
