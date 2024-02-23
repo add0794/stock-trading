@@ -1,0 +1,45 @@
+{
+    "status": "ok",
+    "totalResults": 7775,
+    "articles": [
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Kris Holt",
+            "title": "Tesla has won the EV charging wars",
+            "description": "Stellantis\r\n is the latest manufacturer to commit to using Tesla’s NACS (North American Charging Standard). The company was the last remaining holdout among major automakers, meaning the NACS is becoming a true common standard.\nAccording to a press release\r\n,…",
+            "url": "https://www.engadget.com/tesla-has-won-the-ev-charging-wars-155726724.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/5gs2rVU07wParCpFZnhvVA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-02/7001e0f0-c9bc-11ee-bfeb-9782a05a18ea",
+            "publishedAt": "2024-02-12T15:57:26Z",
+            "content": "Stellantis\r\n is the latest manufacturer to commit to using Teslas NACS (North American Charging Standard). The company was the last remaining holdout among major automakers, meaning the NACS is becom… [+938 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Steve Dent",
+            "title": "Tesla sued by 25 California counties for allegedly mishandling hazardous waste",
+            "description": "Tesla is facing a lawsuit from 25 California counties accusing it of mishandling hazardous waste at facilities around the state, according to a complaint filed in San Joaquin County Superior Court. The lawsuit, which seeks civil penalties and an injunction fo…",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_60b31551-702a-4805-842b-bddc6b17e430",
+            "urlToImage": null,
+            "publishedAt": "2024-02-01T08:20:34Z",
+            "content": "Si vous cliquez sur « Tout accepter », nos partenaires (y compris 244 qui font partie du Cadre de transparence et de consentement dIAB) et nous utiliserons également des témoins et vos données person… [+982 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Mariella Moon",
+            "title": "Tesla settles California hazardous waste lawsuit for $1.5 million",
+            "description": "Tesla and the 25 California counties that sued the automaker for mishandling hazardous waste at its facilities around the state have already reached an agreement just a few days after the lawsuit was filed. The court has ordered the automaker to pay $1.5 mill…",
+            "url": "https://www.engadget.com/tesla-settles-california-hazardous-waste-lawsuit-for-15-million-070513014.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/nlN6wIaA6I61uifksY5AiA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-02/f0dfd8b0-c18f-11ee-b6f1-787b409496fc",
+            "publishedAt": "2024-02-02T07:05:13Z",
+            "content": "Tesla and the 25 California counties that sued the automaker for mishandling hazardous waste at its facilities around the state have already reached an agreement just a few days after the lawsuit was… [+2353 chars]"
+        }
+    ]
+}
