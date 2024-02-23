@@ -14,7 +14,7 @@ from twilio.rest import Client
 
 # Access the JSON stock data and articles
 
-start = time.perf_counter
+start = time.perf_counter()
 
 with open('stock_data.json', 'r') as stock_file, open('tesla_articles.json', 'r') as articles_file:
     stock_data = json.load(stock_file)
@@ -76,16 +76,17 @@ for date in stock_dates:
 load_dotenv("/Users/alexdubro/.conda/.envs.txt")
 TWILIO_ACCOUNT_SID = os.getenv('TWILIO_ACCOUNT_SID')
 TWILIO_AUTH_TOKEN = os.getenv('TWILIO_AUTH_TOKEN')
+TWILIO_PHONE_NUMBER = os.getenv("TWILIO_PHONE_NUMBER")
 
 client = Client(TWILIO_ACCOUNT_SID, TWILIO_AUTH_TOKEN)
 
 message = client.messages.create(
     body=f'{STOCK_SYMBOL}: 🔺{stock_dates[date]}%\nHeadline: {message_title}\n{message_author}\nBrief: {message_content}\n{message_source}',
-    from_= '+18446221979',
-    to = '+19143558658'
+    from_=TWILIO_PHONE_NUMBER,
+    to='+19143558658'
 )
 
-end = time.perf_counter
+end = time.perf_counter()
 execution_time = end - start # How long the program takes to run
 
 # Format the SMS message like this: 
