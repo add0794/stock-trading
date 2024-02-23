@@ -1,6 +1,6 @@
 {
     "status": "ok",
-    "totalResults": 7793,
+    "totalResults": 7681,
     "articles": [
         {
             "source": {
@@ -358,32 +358,6 @@
                 "id": "business-insider",
                 "name": "Business Insider"
             },
-            "author": "Nora Naughton",
-            "title": "Morgan Stanley warns EV momentum is 'stalling' — and lists 7 reasons Tesla should be worried",
-            "description": "Tesla CEO Elon Musk will face a litany of obstacles in 2024, according to analysts at Morgan Stanley.",
-            "url": "https://www.businessinsider.com/why-tesla-should-be-worried-this-year-morgan-stanley-adam-jonas-2024-1",
-            "urlToImage": "https://i.insider.com/65aeb10543bb77284b9f499f?width=1200&format=jpeg",
-            "publishedAt": "2024-01-22T19:04:57Z",
-            "content": "Tesla CEO Elon Musk.ODD ANDERSEN/Getty Images\r\n<ul><li>Challenges Tesla dodged last year might catch up to them in 2024.</li><li>Morgan Stanley expects a conservative year-ahead outlook from Tesla wh… [+4034 chars]"
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "Grace Kay",
-            "title": "Tesla owners are peeved about an update that was meant to fix Autopilot",
-            "description": "Some Tesla owners aren't too happy about a recent software update that targets the carmaker's driver-assist feature.",
-            "url": "https://www.businessinsider.com/tesla-owners-peeved-update-autopilot-self-driving-2024-1",
-            "urlToImage": "https://i.insider.com/65b7b15343bb77284ba14067?width=1200&format=jpeg",
-            "publishedAt": "2024-01-29T16:41:51Z",
-            "content": "Tesla owners are complaining about a software update.Chicago Tribune\r\n<ul><li>Some Tesla owners are complaining about the company's Autopilot update.</li><li>The December update added in more alerts … [+2721 chars]"
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
             "author": "Grace Kay",
             "title": "What it's like to take the Cybertruck camping",
             "description": "Tesla Cybertruck owner Ben Levin compared camping with the truck to \"glamping\" and documented his experience on YouTube.",
@@ -417,6 +391,32 @@
             "urlToImage": "https://i.insider.com/65d50baaf533b039a8856744?width=1200&format=jpeg",
             "publishedAt": "2024-02-20T22:38:09Z",
             "content": "Kim Kardashian has been showing off a Tesla Cybertruck on social media.Getty Images for Fontainebleau Las Vegas\r\n<ul><li>Kim Kardashian posted a photo of a Tesla Cybertruck on her Instagram.</li><li>… [+2029 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Nora Naughton",
+            "title": "Morgan Stanley warns EV momentum is 'stalling' — and lists 7 reasons Tesla should be worried",
+            "description": "Tesla CEO Elon Musk will face a litany of obstacles in 2024, according to analysts at Morgan Stanley.",
+            "url": "https://www.businessinsider.com/why-tesla-should-be-worried-this-year-morgan-stanley-adam-jonas-2024-1",
+            "urlToImage": "https://i.insider.com/65aeb10543bb77284b9f499f?width=1200&format=jpeg",
+            "publishedAt": "2024-01-22T19:04:57Z",
+            "content": "Tesla CEO Elon Musk.ODD ANDERSEN/Getty Images\r\n<ul><li>Challenges Tesla dodged last year might catch up to them in 2024.</li><li>Morgan Stanley expects a conservative year-ahead outlook from Tesla wh… [+4034 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Grace Kay",
+            "title": "Tesla owners are peeved about an update that was meant to fix Autopilot",
+            "description": "Some Tesla owners aren't too happy about a recent software update that targets the carmaker's driver-assist feature.",
+            "url": "https://www.businessinsider.com/tesla-owners-peeved-update-autopilot-self-driving-2024-1",
+            "urlToImage": "https://i.insider.com/65b7b15343bb77284ba14067?width=1200&format=jpeg",
+            "publishedAt": "2024-01-29T16:41:51Z",
+            "content": "Tesla owners are complaining about a software update.Chicago Tribune\r\n<ul><li>Some Tesla owners are complaining about the company's Autopilot update.</li><li>The December update added in more alerts … [+2721 chars]"
         },
         {
             "source": {
@@ -605,6 +605,58 @@
                 "id": "business-insider",
                 "name": "Business Insider"
             },
+            "author": "Katherine Tangalakis-Lippert,Lloyd Lee",
+            "title": "Former Tesla director Larry Ellison invited Elon Musk to Hawaii to 'dry out' from drugs, report says",
+            "description": "In the winter of 2022, former Tesla director Larry Ellison urged Elon Musk to visit Hawaii to 'dry out' from drugs, The Wall Street Journal reported.",
+            "url": "https://www.businessinsider.com/larry-ellison-elon-musk-hawaii-dry-out-drugs-report-2024-2",
+            "urlToImage": "https://i.insider.com/65bf0b9d43bb77284ba357bc?width=1200&format=jpeg",
+            "publishedAt": "2024-02-04T05:08:53Z",
+            "content": "Larry Ellison and Elon MuskGetty\r\n<ul><li>Elon Musk's drug use worries his business associates and board members, The Wall Street Journal reported.</li><li>Former Tesla director Larry Ellison urged E… [+2763 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "George Glover",
+            "title": "Elon Musk's lawyer is helping Adam Neumann as he tries to buy back WeWork",
+            "description": "Neumann's lawyer is Alex Spiro, whose other clients include Tesla CEO Elon Musk and the rappers Jay-Z and Megan Thee Stallion.",
+            "url": "https://www.businessinsider.com/elon-musk-lawyer-adam-neumann-wework-2024-2",
+            "urlToImage": "https://i.insider.com/65c393967a3d2714887876c9?width=1200&format=jpeg",
+            "publishedAt": "2024-02-07T15:27:15Z",
+            "content": "Former WeWork CEO Adam Neumann is trying to buy back the company he cofounded.Shahar Azran/Getty Images\r\n<ul><li>Adam Neumann is trying to buy back WeWork, the now-bankrupt company he cofounded.</li>… [+2169 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "George Glover",
+            "title": "Ford is not giving up on EVs — and has Elon Musk's 'affordable Tesla' in its sights",
+            "description": "CEO Jim Farley said Ford will switch focus to smaller EVs because the \"ultimate competition is going to be the affordable Tesla\", dubbed the Model 2.",
+            "url": "https://www.businessinsider.com/ford-tesla-model-2-elon-musk-jim-farley-electric-vehicles-2024-2",
+            "urlToImage": "https://i.insider.com/65c38cf86fcb546d2d4cebff?width=1200&format=jpeg",
+            "publishedAt": "2024-02-07T14:01:19Z",
+            "content": "The Explorer is one of Ford's electric offerings.Lukas Schulze/Getty Images\r\n<ul><li>Ford will spend more on mass-market EVs, its CEO said Tuesday.</li><li>\"The ultimate competition is going to be th… [+2114 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Grace Kay",
+            "title": "Leaked Tesla pay data: How much Elon Musk's factory workers now make across the US after some got raises",
+            "description": "Tesla hiked pay for factory workers across the US last month. Here's how much they make now, according to internal documents.",
+            "url": "https://www.businessinsider.com/how-much-tesla-factory-workers-paid-per-hour-us",
+            "urlToImage": "https://i.insider.com/65b277a343bb77284ba08d88?width=1200&format=jpeg",
+            "publishedAt": "2024-02-08T09:30:01Z",
+            "content": "Tesla factory workers got a pay bump in January.Getty/David Butow\r\n<ul><li>Tesla announced pay increases effective January 8.</li><li>The company now pays US factory workers between $22 to $39 per ho… [+4173 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
             "author": "Theron Mohamed",
             "title": "Elon Musk is now worth just under $200 billion — and Jeff Bezos is only $15 billion behind",
             "description": "Tesla stock is down 26% this year due to investor concern about its sales growth, slashing Elon Musk's net worth by $30 billion.",
@@ -670,58 +722,6 @@
                 "id": "business-insider",
                 "name": "Business Insider"
             },
-            "author": "Katherine Tangalakis-Lippert,Lloyd Lee",
-            "title": "Former Tesla director Larry Ellison invited Elon Musk to Hawaii to 'dry out' from drugs, report says",
-            "description": "In the winter of 2022, former Tesla director Larry Ellison urged Elon Musk to visit Hawaii to 'dry out' from drugs, The Wall Street Journal reported.",
-            "url": "https://www.businessinsider.com/larry-ellison-elon-musk-hawaii-dry-out-drugs-report-2024-2",
-            "urlToImage": "https://i.insider.com/65bf0b9d43bb77284ba357bc?width=1200&format=jpeg",
-            "publishedAt": "2024-02-04T05:08:53Z",
-            "content": "Larry Ellison and Elon MuskGetty\r\n<ul><li>Elon Musk's drug use worries his business associates and board members, The Wall Street Journal reported.</li><li>Former Tesla director Larry Ellison urged E… [+2763 chars]"
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "George Glover",
-            "title": "Elon Musk's lawyer is helping Adam Neumann as he tries to buy back WeWork",
-            "description": "Neumann's lawyer is Alex Spiro, whose other clients include Tesla CEO Elon Musk and the rappers Jay-Z and Megan Thee Stallion.",
-            "url": "https://www.businessinsider.com/elon-musk-lawyer-adam-neumann-wework-2024-2",
-            "urlToImage": "https://i.insider.com/65c393967a3d2714887876c9?width=1200&format=jpeg",
-            "publishedAt": "2024-02-07T15:27:15Z",
-            "content": "Former WeWork CEO Adam Neumann is trying to buy back the company he cofounded.Shahar Azran/Getty Images\r\n<ul><li>Adam Neumann is trying to buy back WeWork, the now-bankrupt company he cofounded.</li>… [+2169 chars]"
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "George Glover",
-            "title": "Ford is not giving up on EVs — and has Elon Musk's 'affordable Tesla' in its sights",
-            "description": "CEO Jim Farley said Ford will switch focus to smaller EVs because the \"ultimate competition is going to be the affordable Tesla\", dubbed the Model 2.",
-            "url": "https://www.businessinsider.com/ford-tesla-model-2-elon-musk-jim-farley-electric-vehicles-2024-2",
-            "urlToImage": "https://i.insider.com/65c38cf86fcb546d2d4cebff?width=1200&format=jpeg",
-            "publishedAt": "2024-02-07T14:01:19Z",
-            "content": "The Explorer is one of Ford's electric offerings.Lukas Schulze/Getty Images\r\n<ul><li>Ford will spend more on mass-market EVs, its CEO said Tuesday.</li><li>\"The ultimate competition is going to be th… [+2114 chars]"
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "Grace Kay",
-            "title": "Leaked Tesla pay data: How much Elon Musk's factory workers now make across the US after some got raises",
-            "description": "Tesla hiked pay for factory workers across the US last month. Here's how much they make now, according to internal documents.",
-            "url": "https://www.businessinsider.com/how-much-tesla-factory-workers-paid-per-hour-us",
-            "urlToImage": "https://i.insider.com/65b277a343bb77284ba08d88?width=1200&format=jpeg",
-            "publishedAt": "2024-02-08T09:30:01Z",
-            "content": "Tesla factory workers got a pay bump in January.Getty/David Butow\r\n<ul><li>Tesla announced pay increases effective January 8.</li><li>The company now pays US factory workers between $22 to $39 per ho… [+4173 chars]"
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
             "author": "Nora Naughton",
             "title": "This chart shows how Tesla can keep cutting prices and stay ahead of the competition",
             "description": "Tesla's margins have fallen significantly amid Elon Musk's price war, but they're still around double the competition's.",
@@ -729,6 +729,19 @@
             "urlToImage": "https://i.insider.com/65b18e71617029e90a60337e?width=1200&format=jpeg",
             "publishedAt": "2024-01-24T22:26:00Z",
             "content": "A Model S car pictured in a Tesla store in Europe. Soeren Stache/picture alliance via Getty Images\r\n<ul><li>Tesla keeps lowering the price of its cars.</li><li>It's taken a margin hit, but its input … [+1969 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Jyoti Mann",
+            "title": "You can now get Tesla's Cybertruck in 3 more colors, including 'satin abyss blue,' if you're willing to pay up to $6,500 more",
+            "description": "The new paint wraps for Tesla's EV are only available at four service centers in California.",
+            "url": "https://www.businessinsider.com/tesla-cybertruck-three-new-colors-2024-2",
+            "urlToImage": "https://i.insider.com/65d71c12f533b039a885df70?width=1200&format=jpeg",
+            "publishedAt": "2024-02-22T11:27:49Z",
+            "content": "Tesla's Cybertruck was unveiled in 2019.Getty Images\r\n<ul><li>Tesla has added three new Cybertruck color wraps — costing up to $6,500 — to its online shop. </li><li>Its website said the wraps are onl… [+2187 chars]"
         },
         {
             "source": {
@@ -927,19 +940,6 @@
         },
         {
             "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "nnaughton@insider.com (Nora Naughton)",
-            "title": "Polestar's CEO just hinted at a looming problem in the EV market: Tanking used values",
-            "description": "Polestar's stipulations for relieving Hertz of buying requirements hint at larger concerns for EVs and their secondary market.",
-            "url": "https://www.businessinsider.com/hertz-polestar-ev-electric-car-used-resale-values-2024-2",
-            "urlToImage": "https://i.insider.com/65c25b097a3d271488781e1b?width=1200&format=jpeg",
-            "publishedAt": "2024-02-06T17:05:41Z",
-            "content": "One piece of a new agreement to pause sales to Hertz\r\n by EV-maker Polestar hints at a larger concern in the electric-car market.That's why Polestar CEO Thomas Ingenlath told the Financial Times\r\n hi… [+2001 chars]"
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "ReadWrite"
             },
@@ -950,6 +950,19 @@
             "urlToImage": "https://readwrite.com/wp-content/uploads/2024/01/Elon-Musks-xAI-seeks-6-billion.jpg",
             "publishedAt": "2024-01-26T21:18:17Z",
             "content": "With several investors handing sizable checks to startups to profit from what has attracted Silicon Valley’s attention in the past year — the race to create more and better AI has been escalating. To… [+1774 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "nnaughton@insider.com (Nora Naughton)",
+            "title": "Polestar's CEO just hinted at a looming problem in the EV market: Tanking used values",
+            "description": "Polestar's stipulations for relieving Hertz of buying requirements hint at larger concerns for EVs and their secondary market.",
+            "url": "https://www.businessinsider.com/hertz-polestar-ev-electric-car-used-resale-values-2024-2",
+            "urlToImage": "https://i.insider.com/65c25b097a3d271488781e1b?width=1200&format=jpeg",
+            "publishedAt": "2024-02-06T17:05:41Z",
+            "content": "One piece of a new agreement to pause sales to Hertz\r\n by EV-maker Polestar hints at a larger concern in the electric-car market.That's why Polestar CEO Thomas Ingenlath told the Financial Times\r\n hi… [+2001 chars]"
         },
         {
             "source": {
@@ -1288,19 +1301,6 @@
             "urlToImage": "https://s.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1062x597/format/jpg/quality/100/https://s.aolcdn.com/os/ab/_cms/2024/01/25102520/file_photo__row_of_tesla_model_s_sedans_are_seen_outside_the_company_s_headquarters_in_palo_alto__california.jpeg",
             "publishedAt": "2024-01-26T13:45:00Z",
             "content": "Tesla is recalling nearly 200,000 vehicles in the U.S. because the backup camera may not function while the car is in reverse.\r\nThe recall covers certain Models Y, S and X from the 2023 model year. A… [+1038 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Bloomberg",
-            "title": "Tesla stock slumps after warning about 'notably lower' growth",
-            "description": "Filed under:\n Earnings/Financials,Green,Tesla,Electric\n Continue reading Tesla stock slumps after warning about 'notably lower' growth\nTesla stock slumps after warning about 'notably lower' growth originally appeared on Autoblog on Thu, 25 Jan 2024 10:25:00 E…",
-            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e055b879-25eb-4c14-9de1-b4d9b4a4fc06",
-            "urlToImage": null,
-            "publishedAt": "2024-01-25T15:25:00Z",
-            "content": "Si vous cliquez sur « Tout accepter », nos partenaires (y compris 244 qui font partie du Cadre de transparence et de consentement dIAB) et nous utiliserons également des témoins et vos données person… [+982 chars]"
         }
     ]
 }
