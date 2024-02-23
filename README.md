@@ -1,4 +1,4 @@
-# Stock Trad
+# Stock Trading with Public Companies
 
 It can be *very* time-consuming to follow a company's stock value, but you still want to earn a little extra income from investing in your favorite public company. 
 
