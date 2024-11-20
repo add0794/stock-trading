@@ -12,6 +12,6 @@ This program not only tracks changes in its stock value; it automatically texts 
 4. Close
 5. Volume
 
-Generate data in a separate JSON file, which can bring up when the company's name is discussed and on which date.
+This program uses Tesla and generates its data in two separate JSON files. However, you can generate JSON files with stock data and relevant articles for any public company. Just run create_json.py before running main.py.
 
 Make your investing life easier, and perhaps, stop using a certified financial analyst (CFA) to do the dirty work.
