@@ -73,17 +73,21 @@ for date in stock_dates:
 
 # Access the environmental variables
 
-load_dotenv("/Users/alexdubro/.conda/.envs.txt")
+env_path = input("What is your environmental path?")
+
+load_dotenv(f"/Users/{env_path}/.conda/.envs.txt")
 TWILIO_ACCOUNT_SID = os.getenv('TWILIO_ACCOUNT_SID')
 TWILIO_AUTH_TOKEN = os.getenv('TWILIO_AUTH_TOKEN')
 TWILIO_PHONE_NUMBER = os.getenv("TWILIO_PHONE_NUMBER")
 
 client = Client(TWILIO_ACCOUNT_SID, TWILIO_AUTH_TOKEN)
 
+send_to = get_input("What phone number would you like to send to? ", str)
+
 message = client.messages.create(
     body=f'{STOCK_SYMBOL}: 🔺{stock_dates[date]}%\nHeadline: {message_title}\n{message_author}\nBrief: {message_content}\n{message_source}',
     from_=TWILIO_PHONE_NUMBER,
-    to='+19143558658'
+    to=send_to
 )
 
 end = time.perf_counter()
