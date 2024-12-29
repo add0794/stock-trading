@@ -60,4 +60,4 @@ articles = data_creation.DataHandler(endpoint_news, api_call_news)
 articles = articles.get_data()
 
 # Load or create JSON using the method of the instance
-articles.load_or_create_json("new_articles.json", news_articles, formatting=4)
+articles.load_or_create_json("news_articles.json", news_articles, formatting=4)
