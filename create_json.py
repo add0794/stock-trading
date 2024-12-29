@@ -3,30 +3,25 @@ import data_creation
 import json
 import os
 
+# STEP 1: Identify the company's stock and stock symbol.
+
 """
-All company names and stock symbols can be found on this website:
+You can identify the company name and stock symbol on this website:
 https://stockanalysis.com/
 
-Before running this script, please find yours there.
-
-Here, I will be using Tesla.
-
-Additionally, please get an API key from Alpha Vantage and News API. I'm accessing mine via environmental variables.
+You will need an API key on Alpha Vantage and News API, too.
 """
 
-# STEP 1: Specify company name and stock symbol.  
+COMPANY_NAME = input('What is the company\'s name? ') # Tesla Inc
+STOCK_SYMBOL = input('What is the company\'s stock symbol? ') #TSLA
 
-# Example: Tesla 
-# https://stockanalysis.com/symbol-lookup/?q=tesla
+# STEP 2: Create JSON files to access stock data and articles.
 
-COMPANY_NAME = input("What is the company name? ") # "Tesla Inc"
-STOCK_SYMBOL = input("What is the company's stock symbol? ") # "TSLA"
+env_path = input("What is your environmental path? ")
 
-# STEP 2: Create JSON files to access (1) stock data and (2) articles.
+load_dotenv(f"/Users/{env_path}/.conda/.envs.txt") # alexdubro
 
-load_dotenv("/Users/alexdubro/.conda/.envs.txt")
-
-# 2.1) Tesla stock data
+# 2.1) Stock data
 
 STOCK_API_KEY = os.getenv('ALPHA_VANTAGE')
 
@@ -46,7 +41,7 @@ stock_data = stocks.get_data()
 # Load or create JSON using the method of the instance
 stocks.load_or_create_json("stock_data.json", stock_data, formatting=4)
 
-# 2.2) Tesla articles
+# 2.2) Articles
 
 NEWS_API_KEY = os.getenv('NEWS_API')
 
@@ -62,7 +57,7 @@ api_call_news = {
 articles = data_creation.DataHandler(endpoint_news, api_call_news)
 
 # Get the 3 most recent Tesla articles
-news_articles = articles.get_data()
+articles = articles.get_data()
 
 # Load or create JSON using the method of the instance
-articles.load_or_create_json("news_articles.json", news_articles, formatting=4)
+articles.load_or_create_json("new_articles.json", news_articles, formatting=4)
