@@ -56,8 +56,8 @@ api_call_news = {
 # Create a Tesla articles instance of DataHandler
 articles = data_creation.DataHandler(endpoint_news, api_call_news)
 
-# Get the 3 most recent Tesla articles
-articles = articles.get_data()
+# Get the articles data
+news_articles = articles.get_data()
 
-# Load or create JSON using the method of the instance
+# Save the data using the DataHandler instance's method
 articles.load_or_create_json("news_articles.json", news_articles, formatting=4)
