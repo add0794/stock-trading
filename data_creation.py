@@ -1,7 +1,6 @@
 import json
 import requests
 
-
 class DataHandler:
     def __init__(self, endpoint, api_call):
         self.endpoint = endpoint
@@ -18,7 +17,6 @@ class DataHandler:
         except requests.exceptions.RequestException as e:
             print(f"Error fetching data: {e}")
             return None
-
 
     def load_or_create_json(self, file_path, default_data, formatting=None):
         try:
