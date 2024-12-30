@@ -1,5 +1,4 @@
 from datetime import datetime
-from create_json import STOCK_SYMBOL
 from dotenv import load_dotenv
 import json
 import os
@@ -16,7 +15,7 @@ from twilio.rest import Client
 
 start = time.perf_counter()
 
-with open('stock_data.json', 'r') as stock_file, open('tesla_articles.json', 'r') as articles_file:
+with open('stock_data.json', 'r') as stock_file, open('news_articles.json', 'r') as articles_file:
     stock_data = json.load(stock_file)
     article_data = json.load(articles_file)
 
@@ -63,7 +62,7 @@ for article in articles:
 
 for date in stock_dates:
     if date in formatted_article_data:
-        print(f'Get news! Look at the stock value: {date}: {yesterday_low}. It changed by {stock_dates[date]}%.')
+        # print(f'Get news! Look at the stock value: {date}: {yesterday_low}. It changed by {stock_dates[date]}%.')
         articles_for_date = formatted_article_data[date]
         for article in articles_for_date:
             message_title = article["title"]
@@ -73,7 +72,7 @@ for date in stock_dates:
 
 # Access the environmental variables
 
-env_path = input("What is your environmental path?")
+env_path = input("What is your environmental path? ")
 
 load_dotenv(f"/Users/{env_path}/.conda/.envs.txt")
 TWILIO_ACCOUNT_SID = os.getenv('TWILIO_ACCOUNT_SID')
@@ -82,7 +81,9 @@ TWILIO_PHONE_NUMBER = os.getenv("TWILIO_PHONE_NUMBER")
 
 client = Client(TWILIO_ACCOUNT_SID, TWILIO_AUTH_TOKEN)
 
-send_to = get_input("What phone number would you like to send to? ", str)
+send_to = int(input("What phone number would you like to send to? "))
+with open("stock_symbol.txt", "r") as file:
+    STOCK_SYMBOL = file.read().strip()
 
 message = client.messages.create(
     body=f'{STOCK_SYMBOL}: 🔺{stock_dates[date]}%\nHeadline: {message_title}\n{message_author}\nBrief: {message_content}\n{message_source}',
